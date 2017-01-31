@@ -159,8 +159,8 @@ The example application of vector type is:
 
 IMAGE type is implemented in the following files:
 
-* [igtlImageMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlImageMessage.h)
-* [igtlImageMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlImageMessage.cxx)
+* [igtlImageMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlImageMessage.h)
+* [igtlImageMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlImageMessage.cxx)
 
 ## Contributors
 * Junichi Tokuda

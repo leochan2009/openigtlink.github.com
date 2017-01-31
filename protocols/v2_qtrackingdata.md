@@ -141,8 +141,8 @@ The QTDATA message type is intended for transferring 3D positions of surgical to
 
 ## Implementations
 
-* [igtlQuaternionTrackingDataMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlQuaternionTrackingDataMessage.h)
-* [igtlQuaternionTrackingDataMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlQuaternionTrackingDataMessage.cxx)
+* [igtlQuaternionTrackingDataMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlQuaternionTrackingDataMessage.h)
+* [igtlQuaternionTrackingDataMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlQuaternionTrackingDataMessage.cxx)
 
 ## Contributors
 

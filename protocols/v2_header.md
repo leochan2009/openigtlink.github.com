@@ -77,5 +77,5 @@ Please refer [Timestamp](v2_timestamp.html) for the format of the 64-bit timesta
 ### CRC
 The 64-bit CRC used in OpenIGTLink protocol is based on
 [ECMA-182 standard](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-182.pdf).
-An example code is available in [igtl_util.c](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlutil/igtl_unit.h) in the OpenIGTLink library.
+An example code is available in [igtl_util.c](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlutil/igtl_unit.h) in the OpenIGTLink library.
 

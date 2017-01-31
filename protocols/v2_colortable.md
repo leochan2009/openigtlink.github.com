@@ -67,8 +67,8 @@ N/A
 
 IMGMETA message type is implemented in the following source code.
 
-* [igtlLabelMetaMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlLabelMetaMessage.h)
-* [igtlLabelMetaMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlLabelMetaMessage.cxx)
+* [igtlLabelMetaMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlLabelMetaMessage.h)
+* [igtlLabelMetaMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlLabelMetaMessage.cxx)
 
 ## Contributors
 

@@ -282,8 +282,8 @@ or
 
 The POLYDATA message type is implemented in the following source code.
 
-* [igtlPolyDataMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlPolyDataMessage.h)
-* [igtlPolyDataMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlPolyDataMessage.cxx)
+* [igtlPolyDataMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlPolyDataMessage.h)
+* [igtlPolyDataMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlPolyDataMessage.cxx)
 
 
 

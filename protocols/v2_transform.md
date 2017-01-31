@@ -131,8 +131,8 @@ The TRANSFORM data type is used to transfer a homogeneous linear transformation 
 
 ## Implementations
 IMAGE type is implemented in the following files:
-* [igtlTransformMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlTransformMessage.h)
-* [igtlTransformMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlTransformMessage.cxx)
+* [igtlTransformMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlTransformMessage.h)
+* [igtlTransformMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlTransformMessage.cxx)
 
 ## Contributors
 * Junichi Tokuda

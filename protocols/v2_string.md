@@ -68,8 +68,8 @@ N/A
 
 The TDATA message type is implemented in the following source code.
 
-* [igtlStringMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlStringMessage.h)
-* [igtlStringMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlStringMessage.cxx)
+* [igtlStringMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlStringMessage.h)
+* [igtlStringMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlStringMessage.cxx)
 
 ## Contributors
 

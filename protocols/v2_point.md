@@ -122,8 +122,8 @@ N/A
 
 IMGMETA message type is implemented in the following source code.
 
-* [igtlPointMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlPointMessage.h)
-* [igtlPointMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlPointMessage.cxx)
+* [igtlPointMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlPointMessage.h)
+* [igtlPointMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlPointMessage.cxx)
 
 ## Contributors
 

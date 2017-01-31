@@ -312,8 +312,8 @@ or
 
 ## Implementations
 
-* [igtlBindMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlBindMessage.h)
-* [igtlBindMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlBindMessage.cxx) 
+* [igtlBindMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlBindMessage.h)
+* [igtlBindMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlBindMessage.cxx) 
 
 
 ## Contributors

@@ -70,6 +70,10 @@ N/A
 
 ## Implementations
 
+Capability message type is implemented in the following source code.
+
+* [igtlCapabilityMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlCapabilityMessage.h)
+* [igtlCapabilityMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlCapabilityMessage.cxx)
 
 ## Contributors
 

@@ -93,8 +93,8 @@ N/A
 TRAJECTORY message type is implemented in the following source code.
 
 
-* [igtlTrajectoryMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlTrajectoryMessage.h)
-* [igtlTrajectoryMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlTrajectoryMessage.cxx)
+* [igtlTrajectoryMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlTrajectoryMessage.h)
+* [igtlTrajectoryMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlTrajectoryMessage.cxx)
 
 
 ## Contributors

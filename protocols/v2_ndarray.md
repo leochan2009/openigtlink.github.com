@@ -88,8 +88,8 @@ The layout in the byte stream can be visualized as follows:
 
 The NDARRAY message type is implemented in the following source code.
 
-* [igtlNDArrayMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlNDArrayMessage.h)
-* [igtlNDArrayMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlNDArrayMessage.cxx)
+* [igtlNDArrayMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlNDArrayMessage.h)
+* [igtlNDArrayMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlNDArrayMessage.cxx)
 
 
 ## Contributors

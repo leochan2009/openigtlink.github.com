@@ -115,8 +115,8 @@ or
 
 The TDATA message type is implemented in the following source code.
 
-* [igtlSensorMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlSensorMessage.h)
-* [igtlSensorMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlSensorMessage.cxx)
+* [igtlSensorMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlSensorMessage.h)
+* [igtlSensorMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlSensorMessage.cxx)
 
 ## Contributors
 

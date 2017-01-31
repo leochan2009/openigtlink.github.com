@@ -104,8 +104,8 @@ The POSITION data type is used to transfer position and orientation information.
 ## Implementations
 
 POSITION type is implemented in the following files:
-* [igtlPositionMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlPositionMessage.h)
-* [igtlPositionMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlPositionMessage.cxx)
+* [igtlPositionMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlPositionMessage.h)
+* [igtlPositionMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlPositionMessage.cxx)
 
 ## Contributors
 

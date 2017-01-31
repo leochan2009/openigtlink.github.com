@@ -102,8 +102,8 @@ N/A
 
 POSITION type is implemented in the following files:
 
-* [igtlStatusMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlStatusMessage.h)
-* [igtlStatusMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlStatusMessage.cxx)
+* [igtlStatusMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlStatusMessage.h)
+* [igtlStatusMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlStatusMessage.cxx)
 
 ## Contributors
 

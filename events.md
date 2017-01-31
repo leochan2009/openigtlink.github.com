@@ -7,15 +7,21 @@ description: ""
 ---
 {% include JB/setup %}
 
+See [Release Log](releaselog.html) for release information.
+
 ## Upcoming
 
-## 2016
-
+### 2017
 
 ## Past
 
-## 2016
-* January 11, 2016 [Proposal for OpenIGTLink version 3](http://localhost:4000/protocols/v3_proposal.html) is uploaded. 
+### 2017
+* January 9-13, 2017 - [Winter Project Week](https://www.na-mic.org/Wiki/index.php/2017_Winter_Project_Week)
+  * [Tracked Ultrasound Standardization](https://www.na-mic.org/Wiki/index.php/2017_Winter_Project_Week/Tracked_Ultrasound_Standardization)
+  * [ROS Surface Scan](https://www.na-mic.org/Wiki/index.php/2017_Winter_Project_Week/ROS_Surface_Scan)
+
+### 2016
+* January 11, 2016 - [Proposal for OpenIGTLink version 3](http://localhost:4000/protocols/v3_proposal.html) is uploaded. 
 * January 4-8, 2016 - [Winter Project Week](http://www.na-mic.org/Wiki/index.php/2016_Winter_Project_Week) (Cambridge, MA)
   * [3D Slicer + ROS Integration using OpenIGTLink](http://wiki.na-mic.org/Wiki/index.php/2016_Winter_Project_Week/Projects/SlicerROSIntegration)
   * [Tracked ULtrasound Standardization](http://wiki.na-mic.org/Wiki/index.php/2016_Winter_Project_Week/Projects/TrackedUltrasoundStandardization)

@@ -130,8 +130,8 @@ The TDATA message type is intended for transferring 3D positions of surgical too
 
 The TDATA message type is implemented in the following source code.
 
-* [igtlTrackingDataMessage.h](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlTrackingDataMessage.h)
-* [igtlTrackingDataMessage.cxx](https://github.com/openigtlink/OpenIGTLink/blob/master/Source/igtlTrackingDataMessage.cxx)
+* [igtlTrackingDataMessage.h](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlTrackingDataMessage.h)
+* [igtlTrackingDataMessage.cxx](https://github.com/openigtlink/OpenIGTLink/tree/release-2.0/Source/igtlTrackingDataMessage.cxx)
 
 ## Contributors
 
